@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'mywebapp-chetan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A61545C375F42E3BA9CA5868770849D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6113535E8251475C9C556A08F1B43EF9 }}
           package: .
